@@ -22,7 +22,7 @@ https://api.imgur.com/oauth2/addclient
 
 ```js
 // Requiring the module
-const imgur = require('imgur-module');
+const imgur = require('imgur-file-upload');
 
 // intilize client id
 imgur.setClientId('Your Client Id');
