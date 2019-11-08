@@ -1,0 +1,25 @@
+{
+  "name": "imgur-file-upload",
+  "version": "1.0.0",
+  "description": "It's an image upload module by imgur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadali3/imgur-file-upload.git"
+  },
+  "keywords": [
+    "imgur"
+  ],
+  "author": "Asad Ali<alirealasad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asadali3/imgur-file-upload/issues"
+  },
+  "homepage": "https://github.com/asadali3/imgur-file-upload#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
